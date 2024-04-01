@@ -26,6 +26,9 @@ This project aims to detect spam SMS messages using machine learning techniques.
 
 If you encounter a message suspected to be spam, you can report it using the provided functionality in the notebook. Simply run the code cell and follow the prompts.
 
+## Output
+https://github.com/Tazeensk/Spam_SMS_Classification/blob/main/output.jpg
+
 ---
 
 **Note:** This project is for educational purposes only. Please use responsibly.
